@@ -1,7 +1,5 @@
 # Killer's Queen ♛
 
-<img src="KillersQueen/images/banner.jpg" alt="Banner" height="400" />
-
 Um protótipo de jogo no estilo "Vampire Survivors-like" desenvolvido com PyGame Zero, onde você controla o último peão do tabuleiro em uma batalha contra rainhas-damas.
 
 ## 🎮 Como Jogar
@@ -31,6 +29,7 @@ Um protótipo de jogo no estilo "Vampire Survivors-like" desenvolvido com PyGame
 
 ## 🔮 Roadmap (Planos Futuros)
 
+- [ ] Melhor IA de perseguição.
 - [ ] Sistema de pontuação baseado no tempo de sobrevivência
 - [ ] Mais tipos de inimigos
 - [ ] Power-ups e habilidades especiais
